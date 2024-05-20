@@ -1,0 +1,29 @@
+.traditional-dresses img{
+width: 40%;
+margin-left: 450px;
+margin-top: -10px;
+background-repeat: no-repeat;
+}
+
+.tradition img{
+    width: 40%;
+    margin-left: 400px;
+}
+
+.body{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.heading{
+    color: rgb(161, 52, 164);
+    background-color: pink;
+    text-align: center;
+}
+
+.paragraph{
+    text-align: center;
+    font-size: x-large;
+}
